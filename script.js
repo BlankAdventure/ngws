@@ -1,7 +1,6 @@
 // /*
 // * Webserial basic demo
 // */
-// When using nicegui NONE of the html elements are present and will therefore throw errors
 'use strict';
 
 // Global variables
