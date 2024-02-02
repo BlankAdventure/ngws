@@ -6,6 +6,9 @@ This example interfaces with a PyBadge board (https://learn.adafruit.com/adafrui
 
 ![image](https://github.com/BlankAdventure/ngws/assets/24900496/8724350d-bc61-484a-b253-29d044a40386)
 
+
 main.py -> Python nicegui code. This is the file to run.
+
 script.js -> JavaScript code lives here.
-sketch.ino -> Wiring sketch (C++ code with Adafruit libraries) for target MCU.  
+
+sketch.ino -> Wiring sketch (C code with Adafruit libraries) for target MCU.  
